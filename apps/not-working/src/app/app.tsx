@@ -5,12 +5,10 @@ const StyledApp = styled.div`
   // Your style here
 `;
 
-export function App() {
+export default function App() {
   return (
     <StyledApp>
       <NxWelcome title="not-working" />
     </StyledApp>
   );
 }
-
-export default App;

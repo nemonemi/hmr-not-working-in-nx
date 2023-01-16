@@ -22,7 +22,7 @@
         ],
         "styles": [],
         "scripts": [],
-        "webpackConfig": "@nrwl/react/plugins/webpack"
+        "webpackConfig": "apps/not-working/webpack.config.ts"
       },
       "configurations": {
         "development": {
